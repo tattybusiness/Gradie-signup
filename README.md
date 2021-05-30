@@ -33,7 +33,7 @@
 
 ## Overview
 
-![screenshot](https://i.gyazo.com/64c1070da50a3d1ecf9d7aab4dac82ab.png)
+![screenshot](https://i.gyazo.com/973de00641fed481c9541513a86eb298.png)
 
 - The site demo was created using Vercel and can be viewed [Here](https://dev-challenges-404-page.vercel.app/)
 - Whilst creating this site I managed to learn more about responsive web design.
