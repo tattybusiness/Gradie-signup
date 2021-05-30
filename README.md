@@ -8,10 +8,9 @@
 
 <div align="center">
   <h3>
-    <a href="https://dev-challenges-404-page.vercel.app">
+    <a href="https://gradie-signup.vercel.app/">
       Demo
     </a>
-    <span> | </span>
     <span> | </span>
     <a href="https://www.codewell.cc/challenges/608ac420650dff001599e8ec">
       Challenge
